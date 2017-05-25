@@ -10,5 +10,7 @@ The simplest method is to copy paste this snippet just before your closing </bod
 But you can also:
 
 Download ZIP
+
 npm install scrollreveal
+
 bower install scrollreveal
