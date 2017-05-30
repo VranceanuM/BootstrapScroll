@@ -1,4 +1,4 @@
-# BootstrapScroll
+# BootstrapScrollTemplate
 
 1. Getting Started https://github.com/jlmakes/scrollreveal
 
